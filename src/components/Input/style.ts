@@ -48,6 +48,7 @@ export const Container = styled.div<ContainerProps>`
   }
 
   svg {
+    cursor: pointer;
     margin-right: 16px;
   }
 `;
